@@ -1,0 +1,12 @@
+--- Đẩy code từ local lên remote
+
++repository local: source code trong máy tính
+
+--đẩy lần 2 trở đi 
+git add -A
+git commit -m " create home page html "
+git push
+
+
+
+----
